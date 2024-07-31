@@ -230,3 +230,4 @@ For the most current list of members, it is advisable to refer to the official W
 ## References
 
 * [1] PCT: [https://www.wipo.int/pct/en/](https://www.wipo.int/pct/en/)
+* [2] Patent Cooperation Treaty Official Texts: [https://www.wipo.int/pct/en/texts/articles/atoc.html](https://www.wipo.int/pct/en/texts/articles/atoc.html)
