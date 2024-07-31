@@ -226,3 +226,7 @@ As of 2023, the following countries and intergovernmental organizations are memb
 73. Zambia
 
 For the most current list of members, it is advisable to refer to the official WIPO website or recent WIPO publications, as membership can change and new countries may join the agreement.
+
+## References
+
+* [1] PCT: [https://www.wipo.int/pct/en/](https://www.wipo.int/pct/en/)
