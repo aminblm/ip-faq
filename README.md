@@ -28,6 +28,10 @@ Frequently asked questions regarding Intellectual properties
 
 * Patent Cooperation Treaty (PCT)
 
+### PCT related topics
+
+* International Search Report (ISR) 
+
 ## What are all patentable subject matter?
 
 Patentable subject matter generally includes the following categories, which cover a wide range of inventions:
