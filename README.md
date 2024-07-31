@@ -58,3 +58,63 @@ Examples of digital designs that can be protected include:
 
 The specific requirements and scope of protection can vary depending on the jurisdiction, so it's important to consult the relevant IP laws and regulations in the country where protection is sought.
 
+## Who are the members of the Madrid Agreement ?
+
+The Madrid Agreement Concerning the International Registration of Marks, commonly known as the Madrid Agreement, is part of the Madrid System for the international registration of trademarks. The system is administered by the International Bureau of the World Intellectual Property Organization (WIPO). There are two treaties under the Madrid System: the Madrid Agreement (1891) and the Madrid Protocol (1989).
+
+As of 2023, the member countries of the Madrid Agreement are as follows:
+
+1. Algeria
+2. Armenia
+3. Austria
+4. Belgium
+5. Benin
+6. Bosnia and Herzegovina
+7. Bulgaria
+8. China
+9. Croatia
+10. Cuba
+11. Czech Republic
+12. Democratic People’s Republic of Korea (North Korea)
+13. Egypt
+14. France
+15. Georgia
+16. Germany
+17. Hungary
+18. Italy
+19. Kazakhstan
+20. Kyrgyzstan
+21. Latvia
+22. Lesotho
+23. Liberia
+24. Liechtenstein
+25. Luxembourg
+26. Monaco
+27. Montenegro
+28. Morocco
+29. Mozambique
+30. Namibia
+31. Netherlands
+32. Poland
+33. Portugal
+34. Republic of Moldova
+35. Romania
+36. Russian Federation
+37. San Marino
+38. Serbia
+39. Sierra Leone
+40. Slovakia
+41. Slovenia
+42. Spain
+43. Sudan
+44. Switzerland
+45. Syrian Arab Republic
+46. Tajikistan
+47. The former Yugoslav Republic of Macedonia
+48. Tunisia
+49. Ukraine
+
+The Madrid Protocol, which is the more modern and widely adopted treaty, includes all the members of the Madrid Agreement plus additional countries. Many countries are members of both the Madrid Agreement and the Madrid Protocol.
+
+For the most current and detailed information, it is advisable to refer to the official WIPO website or recent publications from WIPO, as membership can change and new countries may join.
+
