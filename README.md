@@ -1,5 +1,24 @@
 # ip-faq
+
 Frequently asked questions regarding Intellectual properties
+
+## What are some key learning components?
+
+### Laws
+
+* Patent
+* Trademark
+* Industrial Design
+* Copyright
+
+### Agreements
+
+* The Madrid Agreement 
+* The Hague Agreement
+
+### Concepts
+
+* Unfair competition
 
 ## What are all patentable subject matter?
 
