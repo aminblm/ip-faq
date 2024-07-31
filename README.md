@@ -24,6 +24,10 @@ Frequently asked questions regarding Intellectual properties
 * Intellectual property
 * Unfair competition
 
+### Treaties
+
+* Patent Cooperation Treaty (PCT)
+
 ## What are all patentable subject matter?
 
 Patentable subject matter generally includes the following categories, which cover a wide range of inventions:
