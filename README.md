@@ -8,16 +8,20 @@ Frequently asked questions regarding Intellectual properties
 
 * Patent
 * Trademark
+* Collective marks
 * Industrial Design
 * Copyright
+* Related rights
+* Geographic indications
 
 ### Agreements
 
-* The Madrid Agreement 
-* The Hague Agreement
+* The Madrid Agreement (Trademark)
+* The Hague Agreement (Industrial designs)
 
 ### Concepts
 
+* Intellectual property
 * Unfair competition
 
 ## What are all patentable subject matter?
