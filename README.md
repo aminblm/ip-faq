@@ -118,3 +118,84 @@ The Madrid Protocol, which is the more modern and widely adopted treaty, include
 
 For the most current and detailed information, it is advisable to refer to the official WIPO website or recent publications from WIPO, as membership can change and new countries may join.
 
+## Who are the member states of the Hague Agreement?
+
+The Hague Agreement Concerning the International Deposit of Industrial Designs, commonly known as the Hague Agreement, is administered by the World Intellectual Property Organization (WIPO). It provides a mechanism for registering industrial designs in multiple countries through a single application.
+
+As of 2023, the following countries and intergovernmental organizations are members of the Hague Agreement:
+
+1. Albania
+2. Armenia
+3. Azerbaijan
+4. Barbados
+5. Belarus
+6. Belize
+7. Benin
+8. Bosnia and Herzegovina
+9. Botswana
+10. Brunei Darussalam
+11. Bulgaria
+12. Cambodia
+13. Canada
+14. Central African Republic
+15. Côte d'Ivoire
+16. Croatia
+17. Denmark
+18. Egypt
+19. Estonia
+20. European Union (EU)
+21. Finland
+22. France
+23. Gabon
+24. Georgia
+25. Germany
+26. Ghana
+27. Hungary
+28. Iceland
+29. Italy
+30. Japan
+31. Kyrgyzstan
+32. Latvia
+33. Liechtenstein
+34. Lithuania
+35. Luxembourg
+36. Mali
+37. Mexico
+38. Monaco
+39. Mongolia
+40. Montenegro
+41. Namibia
+42. Netherlands
+43. North Macedonia
+44. Norway
+45. Oman
+46. Poland
+47. Republic of Korea (South Korea)
+48. Republic of Moldova
+49. Romania
+50. Rwanda
+51. San Marino
+52. Sao Tome and Principe
+53. Senegal
+54. Serbia
+55. Singapore
+56. Slovakia
+57. Slovenia
+58. Spain
+59. Sri Lanka
+60. Suriname
+61. Switzerland
+62. Syrian Arab Republic
+63. Tajikistan
+64. Trinidad and Tobago
+65. Tunisia
+66. Turkey
+67. Turkmenistan
+68. Ukraine
+69. United Kingdom
+70. United States of America
+71. Uzbekistan
+72. Viet Nam
+73. Zambia
+
+For the most current list of members, it is advisable to refer to the official WIPO website or recent WIPO publications, as membership can change and new countries may join the agreement.
