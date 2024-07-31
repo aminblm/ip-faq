@@ -32,7 +32,7 @@ In some jurisdictions, additional categories or specific examples may be include
 
 It's important to check the specific patent laws and regulations in the jurisdiction where patent protection is sought, as the scope of patentable subject matter can vary.
 
-## Does industrial design extend to digital designs ?
+## Does industrial law design extend to digital designs ?
 
 Yes, industrial design protection can extend to digital designs in many jurisdictions. Digital designs, such as graphical user interfaces (GUIs), icons, and other visual elements displayed on electronic devices, can often be protected under industrial design law if they meet the criteria of being novel and having an aesthetic aspect.
 
